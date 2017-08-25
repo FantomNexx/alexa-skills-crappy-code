@@ -1,0 +1,22 @@
+{
+  "name": "alexa-skills-crappy-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FantomNexx/alexa-skills-crappy-code.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FantomNexx/alexa-skills-crappy-code/issues"
+  },
+  "homepage": "https://github.com/FantomNexx/alexa-skills-crappy-code#readme",
+  "dependencies": {
+    "alexa-app-server": "^3.0.1"
+  }
+}
